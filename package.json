@@ -12,7 +12,6 @@
   },
   "homepage": "https://github.com/thlorenz/math-euler",
   "dependencies": {
-    "math-quaternion": "~1.0.0"
   },
   "devDependencies": {
     "tap": "~0.4.3"
