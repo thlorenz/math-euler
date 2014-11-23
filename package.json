@@ -1,0 +1,33 @@
+{
+  "name": "math-euler",
+  "version": "0.0.0",
+  "description": "Euler math functions ported from THREE.js",
+  "main": "euler.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/math-euler.git"
+  },
+  "homepage": "https://github.com/thlorenz/math-euler",
+  "dependencies": {
+    "math-quaternion": "~1.0.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.3"
+  },
+  "keywords": [ "math", "euler" ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/math-euler/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=0.8"
+  }
+}
