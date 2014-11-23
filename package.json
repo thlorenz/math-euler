@@ -1,6 +1,6 @@
 {
   "name": "math-euler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Euler math functions ported from THREE.js",
   "main": "euler.js",
   "scripts": {
@@ -11,8 +11,7 @@
     "url": "git://github.com/thlorenz/math-euler.git"
   },
   "homepage": "https://github.com/thlorenz/math-euler",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tap": "~0.4.3"
   },
